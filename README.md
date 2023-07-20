@@ -10,13 +10,14 @@
 
 #### Preliminarmente foram levantas as seguintes história de usuário:
 
-- Como estudante de biologia
-Quero uma quero formar um ser vivo
-Para que eu passa estudar para provas
+- COMO estudante de biologia
+QUERO formar um ser vivo
+PARA que eu passa estudar para provas e trabalhos
 
 
-- Como professor de biologia
-Quero cadastrar características dos seres vivos
-Para que os alunos possam aprender
+- COMO professor de biologia
+QUERO cadastrar características dos seres vivos
+PARA que os alunos possam estudar para as provas e trabalhos
 
+#### BDD
  
