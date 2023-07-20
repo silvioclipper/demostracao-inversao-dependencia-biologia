@@ -1,0 +1,22 @@
+{
+    "name": "clipper/inversao",
+    "description": "Demonstracao do principio da inversao de dependencia",
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Clipper\\Inversao\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "silvioclipper",
+            "email": "silvioclipper@gmail.com"
+        }
+    ]
+}
